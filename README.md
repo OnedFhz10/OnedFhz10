@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Bachelor of Information Systems graduate  <br>💻 Interested in Web Development, Backend Systems, and AI-based Applications  <br>🧠 Experienced in building web apps, dashboards, and simple machine learning projects  <br>🚀 Passionate about learning new technologies and solving real-world problems with IT  <br>📈 Currently improving skills in Fullstack Development & AI Integration
+🎓 Bachelor of Information Systems graduate  <br>💻 Interested in Web Development, Systems Analyst, and AI-based Applications  <br>🧠 Experienced in building web apps, dashboards, and machine learning projects  <br>🚀 Passionate about learning new technologies and solving real-world problems with IT  <br>📈 Currently improving skills in Fullstack Development & AI Integration
 
 
 ## 🌐 Socials:
